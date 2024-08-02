@@ -1,4 +1,4 @@
-# MedicalInsurancePrices
+# Medical Insurance Prices Estimation
 
 Medical Insurance data is from the Kaggle repository, https://www.kaggle.com/datasets/mirichoi0218/insurance?resource=downloa 
 
